@@ -1,6 +1,6 @@
-Hi, I’m Cassie Flowers! I'm a newbie in the IT scene and I'm looking to learn more and reach out to other folks!
+Hi, I’m Cassafrass, your local elf mage dev lady! I'm a newbie in the IT scene and I'm looking to learn more and reach out to other folks!
  I’m interested in writing, music, and digital art. I'm obsessed with horror and Godzilla!
- I’m currently learning through the freecodecamp.org program. 
+ I’m currently learning Javascript through the freecodecamp.org program. 
  
  <p>She / Her</p>
  
